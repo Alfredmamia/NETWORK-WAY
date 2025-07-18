@@ -4,7 +4,7 @@ This project was created and pushed to GitHub using [Bolt to GitHub](https://git
 
 ## Description
 
-APPLICATION POUR ELABORATION DES CARTES DU RESEAU TELECOMS
+Cartographie interactive des infrastructures fibre optique
 
 ## Installation
 
